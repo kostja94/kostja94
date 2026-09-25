@@ -120,22 +120,24 @@ When agents started reading Markdown for a living, I packaged a decade of growth
 </td>
 <td width="33%" valign="top">
 
-**[social-cards-skills](https://github.com/kostja94/social-cards-skills)**  
-![stars](https://img.shields.io/github/stars/kostja94/social-cards-skills?style=flat-square&label=stars)
+**[Bricks](https://github.com/kostja94/bricks)**  
+![stars](https://img.shields.io/github/stars/kostja94/bricks?style=flat-square&label=stars)
 
-The spec I wished existed before Oginify — programmatic OG generation with Satori and resvg, built for agents that need share surfaces without opening Figma.
+The component layer for AI agents — shared product, UX, accessibility, and validation guidance that adapts to the target project's stack and design system.
 
 </td>
 <td width="33%" valign="top">
 
-**[vibe-coding](https://github.com/kostja94/vibe-coding)**  
-![stars](https://img.shields.io/github/stars/kostja94/vibe-coding?style=flat-square&label=stars)
+**[OpenBlog](https://github.com/kostja94/openblog)**  
+![stars](https://img.shields.io/github/stars/kostja94/openblog?style=flat-square&label=stars)
 
-The stack notes from shipping Oginify in two days — default configs for Lovable-class builders, plus the moment you outgrow the prototype and need Next.js with real SEO hygiene.
+An agent-native, Git-based blog module for product websites — routes, content contracts, SEO primitives, and reviewable maintenance without a traditional CMS backend.
 
 </td>
 </tr>
 </table>
+
+Also maintained: [social-cards-skills](https://github.com/kostja94/social-cards-skills) for programmatic OG and Twitter Card generation, and [vibe-coding](https://github.com/kostja94/vibe-coding) for AI app-builder stacks and migration playbooks.
 
 ---
 
